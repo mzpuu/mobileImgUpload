@@ -5,5 +5,6 @@
   2）ios拍照上传后在传回客户端，图片旋转了，旋转了... 可以使用exif.js可以把每个exif信息参数给对应列出来
   3）ios拍照的图片裁剪，得到的图片是空白的，没有内容。
   大概就这些吧
-还好有大神的代码，要不，就废了。好东西，不敢独享
- 
+还好有大神的代码，要不，就废了。
+
+js中用到了load-image.js，github上的地址https://github.com/blueimp/JavaScript-Load-Image
